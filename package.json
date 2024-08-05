@@ -1,5 +1,5 @@
 {
-  "name": "vue3-grid-layout-next",
+  "name": "@aftt/vue3-grid-layout-next",
   "version": "1.0.7",
   "type": "module",
   "description": "A draggable and resizable grid layout, as a Vue component.",
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xhlife/vue3-grid-layout.git"
+    "url": "https://github.com/aiftt/vue3-grid-layout.git"
   },
   "author": "",
-  "homepage": "https://github.com/xhlife/vue3-grid-layout",
+  "homepage": "https://github.com/aiftt/vue3-grid-layout",
   "main": "dist/vue3-grid-layout.js",
   "unpkg": "dist/vue3-grid-layout.umd.cjs",
   "typings": "dist/components/index.d.ts",
